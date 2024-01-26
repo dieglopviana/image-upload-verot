@@ -1,0 +1,13 @@
+{
+    "name": "diego.viana/upload",
+    "description": "Upload de imagem",
+    "authors": [
+        {
+            "name": "Diego Viana",
+            "email": "diego.viana@grupoornatus.com"
+        }
+    ],
+    "require": {
+        "verot/class.upload.php": "^2.1"
+    }
+}
